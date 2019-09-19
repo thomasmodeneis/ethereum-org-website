@@ -53,7 +53,7 @@ The following projects provide blockchain services for enterprises grade systems
 - [Clearmatics](https://www.clearmatics.com/about) *protocols and peer-to-peer platform architecture, blockchain R&D company*
 - [PegaSys Plus](https://pegasys.tech/enterprise/) *offers the same features and functionalities as HF Besu, plus additional enterprise focused benefits*
 - [Quorum](https://www.goquorum.com/) *open source blockchain platform that combines the innovation of the public Ethereum community with enhancements to support enterprise needs*
-- [Smilo](https://smilo.io) Smilo is a open and decentralized full-featured hybrid Blockchain platform based on Ethereum able to facilitate hybrid smart contracts and hybrid decentralized applications — with ‘hybrid’ referring to both public and private. 
+- [Smilo](https://smilo.io) is a open and decentralized full-featured hybrid Blockchain platform based on Ethereum able to facilitate hybrid smart contracts and hybrid decentralized applications — with ‘hybrid’ referring to both public and private. 
 
 ## Protocol and Infrastructure
 
